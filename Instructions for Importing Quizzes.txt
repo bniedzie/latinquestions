@@ -1,0 +1,9 @@
+Instructions for Importing Practice Quizzes
+
+By default, hybrid courses should come with the practice quizzes set up correctly.  If you are teaching a traditional section or the hybrid section has not been set up correctly, follow these instructions to set up practice quizzes.
+
+If you import the .xml file in this folder into the Question Bank for your CCLE site, you'll be able to create quizzes on every major morphological category without much effort (a minute or so per quiz).  This file contains questions for Latin 1, 2, and 3.
+
+The easiest way to view the question bank import screen is to create an empty quiz and then click "Quizzes" under Activities/Resources on the left of the course site - the Quizzes section only seems to show up if you have a quiz on your site.  Once you have imported the questions file as a Moodle XML file, you can create quizzes from the materials.
+
+I personally like changing the default quiz settings to show all questions on one page (under Layout).  Once the quiz is set up, when editing the quiz, you can click "Add Question" and choose "a random question".  Choose the type of questions you want under "Category", the number of questions you want (I normally do 10, but more may be better), and you should be set.  Categories that end with numbers in parentheses will have questions on a single topic (e.g., "First Declension Nouns (72)"); categories without a number will review larger groups (e.g, "First through Third Declension Nouns").
